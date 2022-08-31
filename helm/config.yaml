@@ -1,0 +1,3 @@
+cluster_name: demo
+cluster_endpoint: https://F29063C2D39D8BAC9D1AEBC7BB05CBD0.gr7.ap-northeast-2.eks.amazonaws.com
+oidc_arn: arn:aws:iam::688339442457:oidc-provider/oidc.eks.ap-northeast-2.amazonaws.com/id/F29063C2D39D8BAC9D1AEBC7BB05CBD0
